@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+.yulo{
+    align-items: center;
+    background: rgb(42, 93, 90);
+}
+.koli{
+    justify-content: flex-end;
+}
+.bottom-left {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: lightblue;
+    padding: 10px;
+    border-radius: 5px;
+    box-sizing: border-box;
+
+  }
+  .jiji{
+justify-content: right;
+
+
+  }
